@@ -2,7 +2,7 @@
   "profiles": {
     "Traceroute": {
       "commandName": "Project",
-      "commandLineArgs": "yandex.ru -d"
+      "commandLineArgs": "yandex.ru"
     }
   }
 }
