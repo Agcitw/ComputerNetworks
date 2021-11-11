@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ping": {
+      "commandName": "Project",
+      "commandLineArgs": "google.com"
+    }
+  }
+}
